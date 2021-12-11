@@ -1,2 +1,2 @@
 # cs460
-term projects from cs460: intro to database systems.
+term project from cs460: intro to database systems.
