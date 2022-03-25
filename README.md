@@ -1,2 +1,2 @@
 # cs460
-term project from cs460: intro to database systems.
+term project from fall 2021.
